@@ -59,8 +59,8 @@ The application features a clean, modern interface with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/image-resizer-pro.git
-   cd image-resizer-pro
+   git clone https://github.com/MrSamSeen/SSResizer.git
+   cd SSResizer
    ```
 
 2. **Install required dependencies**
@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **SamSeen**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@MrSamSeen](https://github.com/MrSamSeen)
 
 ## 🤝 Contributing
 
