@@ -59,7 +59,7 @@ The application features a clean, modern interface with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MrSamSeen/SSResizer.git
+   git clone https://github.com/SamSeenX/SSResizer.git
    cd SSResizer
    ```
 
@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **SamSeen**
 
-- GitHub: [@MrSamSeen](https://github.com/MrSamSeen)
+- GitHub: [@SamSeenX](https://github.com/SamSeenX)
 
 ## 🤝 Contributing
 
